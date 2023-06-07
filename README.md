@@ -22,6 +22,7 @@ To develop a animal feeding game-Phase-2 using unity engine with C#.
 
 ## Program:
 Spawn Manager
+
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -55,9 +56,10 @@ public class SpawnManager : MonoBehaviour
     }
 }
 
-
+```
 
 ## Detect Collider:
+
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -82,8 +84,6 @@ public class DetectCollider : MonoBehaviour
         Destroy(other.gameObject);
     }
 }
-
-
 
 ```
 
