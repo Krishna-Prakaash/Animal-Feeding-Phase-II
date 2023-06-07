@@ -90,6 +90,7 @@ public class DetectCollider : MonoBehaviour
 
 
 ## Output:
+![Screenshot (149)](https://github.com/Krishna-Prakaash/Animal-Feeding-Phase-II/assets/93427144/a563253c-bbfe-4c59-9a56-135ee9a114a4)
 
 ## Result:
 Thus,The Animal feeding game-Phase-2 using unity engine is developed successfully.
